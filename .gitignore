@@ -1,0 +1,13 @@
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore dependency directories (if you add composer later)
+vendor/
+
+# Ignore session files (if PHP creates them)
+session*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
